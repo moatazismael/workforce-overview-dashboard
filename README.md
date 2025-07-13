@@ -23,7 +23,7 @@ The **Workforce Overview Dashboard** helps HR teams monitor employee trends and 
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](workforce%20overview%20dashboard.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ## 📁 Files
 
